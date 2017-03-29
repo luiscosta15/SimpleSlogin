@@ -1,0 +1,7 @@
+#Sat Mar 25 19:42:04 GMT 2017
+base.0=C\:\\Users\\luisc\\AndroidStudioProjects\\SimpleSlogin\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8fc32733a16174792352fa257fb07bf602c03ac3
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\luisc\\AndroidStudioProjects\\SimpleSlogin\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a504f2f8e4631dc5eff909146e212bd9a814f77d\\classes.dex
+base.1=C\:\\Users\\luisc\\AndroidStudioProjects\\SimpleSlogin\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a504f2f8e4631dc5eff909146e212bd9a814f77d
+file.0=C\:\\Users\\luisc\\AndroidStudioProjects\\SimpleSlogin\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8fc32733a16174792352fa257fb07bf602c03ac3\\classes.dex
